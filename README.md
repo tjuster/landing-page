@@ -5,3 +5,5 @@ Things that I learned were how to effectively make containers and nest elements 
 What I'm most proud of is my HTML groundwork, which I got done quickly and almost completely like the final product on my first try. I'm also proud of how I tried to make the code as clear to read as possible, both HTML and CSS. I hope others find this to be the case too.
 
 Things that I would like to improve is how to write CSS more effeciently and how to manage containers in a more effective way so they don't clutter. Indentations help a lot to make code more readable, but learning how to minimize your code is something I would love to learn.
+
+One thing that I really need to work one is my Git flow, I should do more atomic commits and write clearer messages. Something to remember!
