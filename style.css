@@ -10,6 +10,7 @@ body {
 
 .header-logo-text {
     font-size: 24px;
+    font-weight: 800;
     color: #F9FAF8;
 }
 
@@ -33,6 +34,11 @@ body {
 
 .hero-sign-up {
     border: 2px solid #3882F6;
+}
+
+.action-main-text {
+    font-size: 20px;
+    font-weight: 800;
 }
 
 .action-sign-up {
@@ -71,6 +77,7 @@ a   {
     color: #F9FAF8;
 }
 
-.footer {
+.footer,
+.placeholder-image {
     color: #F9FAF8;
 }
