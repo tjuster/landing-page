@@ -24,9 +24,25 @@ body {
     color: #E5E7EB;
 }
 
-.button,
+.hero-sign-up,
+.action-sign-up {
+    border-radius: 5px;
+    padding: 3px 15px;
+    font-weight: 800;
+}
+
+.hero-sign-up {
+    border: 2px solid #3882F6;
+}
+
+.action-sign-up {
+    border: 2px solid white;
+}
+
+button,
 .action-container {
     background-color: #3882F6;
+    color: #E5E7EB;
 }
 
 .info-main-text {
@@ -44,4 +60,17 @@ body {
     font-weight: lighter;
     font-style: italic;
     color: #1F2937;
+}
+
+ul  {
+    list-style: none;
+}
+
+a   {
+    text-decoration: none;
+    color: #F9FAF8;
+}
+
+.footer {
+    color: #F9FAF8;
 }
