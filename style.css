@@ -27,7 +27,7 @@ body {
     margin-top: 10px;
 }
 
-.hero-second-container {
+.hero-body-container {
     margin-top: 125px;
     margin-bottom: 125px;
     display: flex;
@@ -35,12 +35,12 @@ body {
     gap: 50px;
 }
 
-.hero-third-container {
+.hero-text-container {
     height: 225px;
     width: 450px;
 }
 
-.hero-fourth-container {
+.hero-image-container {
     height: 225px;
     width: 500px;
     background-color: grey;
