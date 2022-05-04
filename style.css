@@ -1,11 +1,52 @@
 body {
     font-family: "Roboto", sans-serif;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
 }
 
 .hero, 
 .header, 
 .footer {
     background-color: #1F2937;
+}
+
+.hero-main-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1200px;
+    margin-top: 10px;
+}
+
+.hero-second-container {
+    margin-top: 125px;
+    margin-bottom: 125px;
+    display: flex;
+    width: 1200px;
+}
+
+.hero-third-container {
+    height: 200px;
+    width: 600px;
+}
+
+.hero-fourth-container {
+    height: 200px;
+    width: 600px;
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
 }
 
 .header-logo-text {
@@ -18,11 +59,13 @@ body {
     font-size: 48px;
     font-weight: 800;
     color: #F9FAF8;
+    margin-bottom: 12px;
 }
 
 .hero-secondary-text {
     font-size: 18px;
     color: #E5E7EB;
+    margin-bottom: 12px;
 }
 
 .hero-sign-up,
@@ -70,6 +113,10 @@ button,
 
 ul  {
     list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 15px;
 }
 
 a   {
