@@ -68,32 +68,6 @@ body {
     margin-bottom: 12px;
 }
 
-.hero-sign-up,
-.action-sign-up {
-    border-radius: 5px;
-    padding: 3px 15px;
-    font-weight: 800;
-}
-
-.hero-sign-up {
-    border: 2px solid #3882F6;
-}
-
-.action-main-text {
-    font-size: 20px;
-    font-weight: 800;
-}
-
-.action-sign-up {
-    border: 2px solid white;
-}
-
-button,
-.action-container {
-    background-color: #3882F6;
-    color: #E5E7EB;
-}
-
 .info-main-text {
     font-size: 36px;
     font-weight: 800;
@@ -111,6 +85,15 @@ button,
     color: #1F2937;
 }
 
+.action-sign-up {
+    border: 2px solid white;
+}
+
+.action-main-text {
+    font-size: 20px;
+    font-weight: 800;
+}
+
 ul  {
     list-style: none;
     padding: 0;
@@ -122,6 +105,23 @@ ul  {
 a   {
     text-decoration: none;
     color: #F9FAF8;
+}
+
+.hero-sign-up,
+.action-sign-up {
+    border-radius: 5px;
+    padding: 3px 15px;
+    font-weight: 800;
+}
+
+.hero-sign-up {
+    border: 2px solid #3882F6;
+}
+
+button,
+.action-container {
+    background-color: #3882F6;
+    color: #E5E7EB;
 }
 
 .footer,
